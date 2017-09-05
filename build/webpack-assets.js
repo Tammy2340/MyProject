@@ -1,0 +1,1 @@
+window.WEBPACK_ASSETS = {"entry":{"js":"build/entry.2b9a00c24c3ddcbd5719.bundle.js"}}
