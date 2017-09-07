@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63cfe088-29d2-42e6-ade4-3f7c1669f00b" name="Default" comment="" />
+    <list default="true" id="63cfe088-29d2-42e6-ade4-3f7c1669f00b" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/components/zhizhang.js" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,8 +23,29 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-155">
               <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-              <folding>
+              <folding>n
                 <element signature="e#0#126#0" expanded="false" />
+                <marker date="1504616704000" expanded="true" signature="195:2652" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="208:313" ph="{&quot;entry&quot;: './app/entry.js'...}" />
+                <marker date="1504616704000" expanded="true" signature="327:570" ph="{&quot;filename&quot;: '[name].[hash].bundle.js'...}" />
+                <marker date="1504616704000" expanded="true" signature="585:1071" ph="[...]" />
+                <marker date="1504616704000" expanded="true" signature="683:793" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="712:783" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="821:1018" ph="{&quot;filename&quot;: 'build/webpack-assets.js'...}" />
+                <marker date="1504616704000" expanded="true" signature="917:1008" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="1087:1570" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="1178:1564" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="1245:1356" ph="/*...*/" />
+                <marker date="1504616704000" expanded="true" signature="1584:2595" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="1624:2450" ph="[...]" />
+                <marker date="1504616704000" expanded="true" signature="1638:1882" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="1896:1990" ph="{&quot;loader&quot;: 'style!css!less'...}" />
+                <marker date="1504616704000" expanded="true" signature="2004:2199" ph="{&quot;loader&quot;: 'url?limit=1024&amp;name=fonts/[name].[hash].[ext]'...}" />
+                <marker date="1504616704000" expanded="true" signature="2213:2347" ph="{&quot;loader&quot;: &quot;url?limit=100000&amp;name=images/[hash:8].[name].[ext]&quot;...}" />
+                <marker date="1504616704000" expanded="true" signature="2361:2440" ph="{&quot;loader&quot;: 'json'...}" />
+                <marker date="1504616704000" expanded="true" signature="2473:2588" ph="[...]" />
+                <marker date="1504616704000" expanded="true" signature="2487:2577" ph="{...}" />
+                <marker date="1504616704000" expanded="true" signature="2612:2650" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -82,6 +106,7 @@
         <option value="$PROJECT_DIR$/app/containers/node/useEventEmitter.js" />
         <option value="$PROJECT_DIR$/app/containers/basic/bibao1.js" />
         <option value="$PROJECT_DIR$/app/containers/basic/bibao2.js" />
+        <option value="$PROJECT_DIR$/app/components/zhizhang.js" /> 
       </list>
     </option>
   </component>
@@ -165,7 +190,7 @@
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
+            <PATH_ELEMENT> 
               <option name="myItemId" value="containers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -189,6 +214,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="basic" />
+              <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -310,12 +336,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1504592939336</updated>
-      <workItem from="1504592940668" duration="10166000" />
+      <workItem from="1504592940668" duration="10771000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
+  <component name="TimeTrackingManager"> 
     <option name="totallyTimeSpent" value="22103000" />
+    <option name="totallyTimeSpent" value="10771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="777" y="23" width="657" height="803" extended-state="0" />
@@ -455,7 +482,7 @@
           <folding />
         </state>
       </provider>
-    </entry>
+    </entry> 
     <entry file="file://$PROJECT_DIR$/node_modules/.bin/webpack">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1722">
@@ -590,6 +617,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
+    </entry> 
   </component>
 </project>
