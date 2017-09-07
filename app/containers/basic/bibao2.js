@@ -55,7 +55,10 @@ bar1(10);
 
 
 var db = (function () {
+    // 创建一个隐藏的object, 这个object持有一些数据
+    // 从外部是不能访问这个object的
     var data = {};
+    // 创建一个函数, 这个函数提供一些访问data的数据的方法
     return function (key, val) {
         if (val===undefined){
             return data[key];
@@ -63,6 +66,8 @@ var db = (function () {
             return data[key] = val;
         }
     }
+    // 我们可以调用这个匿名方法
+    // 返回这个内部函数，它是一个闭包
 })();
 console.log(db('x'));
 console.log(db('x', 1));
